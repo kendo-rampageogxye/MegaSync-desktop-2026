@@ -1,0 +1,1 @@
+# MegaSync-desktop-2026
