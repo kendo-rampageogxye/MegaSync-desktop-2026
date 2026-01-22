@@ -21,15 +21,15 @@ Perfect for heavy MEGA users: people who share large amounts of data, make backu
 - No ads and no telemetry (in modified versions)
 
 ## Quick Start
+-----------
 
-1. Download the latest release archive  
-2. Extract the archive to a folder of your choice  
-3. Launch `MegaSync.exe` (Windows) / `MegaSync` (macOS/Linux)  
-4. Log in with your MEGA account (or use browser login)  
-5. Select folders to sync and enjoy 😎
+1. Download the latest release archive.  
+2. Extract the archive to a folder of your choice.  
+3. Launch MegaSync Pro.
 
 ## License
 
 This project is licensed under the **MIT License**.
 
 **Important**: Using modified clients may violate the MEGA terms of service. Use at your own risk.
+
